@@ -2,8 +2,9 @@
 
 
 <details>
-<summary>Le jeu Simon est un jeu électronique classique de mémoire qui met à l'épreuve la capacité des joueurs à se souvenir d'une séquence de couleurs et de sons. Voici un bref résumé des règles :</summary>
+<summary>Voir les règles du jeu</summary>
 
+## Le jeu Simon est un jeu électronique classique de mémoire qui met à l'épreuve la capacité des joueurs à se souvenir d'une séquence de couleurs et de sons. Voici un bref résumé des règles :
 Le jeu comporte quatre boutons de couleurs différentes (rouge, vert, jaune et bleu). Chaque bouton émet un son distinct lorsque vous appuyez dessus.
 
 ### Déroulement du jeu :
